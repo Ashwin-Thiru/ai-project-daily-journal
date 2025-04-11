@@ -1,0 +1,43 @@
+✅ What I did:
+
+feat: integrated Gmail API and authenticated using token credentials
+
+feat: extracted 250 emails into CSV with sender, subject, snippet, and manual labels
+
+feat: started iteration 2 of mail automation agent
+
+feat: added preprocessing functions to combine features into a single input vector
+
+feat: visualized dataset and target label distribution
+
+feat: cleaned and preprocessed data for model training
+
+feat: trained logistic regression model with beginner-friendly setup and good accuracy
+
+💡 What I learned:
+
+docs: understood Gmail API token generation process
+
+docs: improved understanding of Python function logic
+
+docs: visualized target variable to explore label distribution
+
+docs: learned full preprocessing pipeline for text classification
+
+docs: applied label encoding and TF-IDF vectorization
+
+docs: compared classification models using accuracy and confusion matrix
+
+❓ What I struggled with:
+
+chore: unsure about model selection for scaling
+
+chore: faced logic confusion in custom preprocessing functions
+
+fix: resolved tf-idf and label encoding issues with shape mismatch
+
+chore: understood importance of matching input shapes for train/test sets
+
+📌 Next Steps:
+
+Imporve models efficieny and performance in real data
